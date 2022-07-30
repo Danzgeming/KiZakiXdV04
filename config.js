@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['628671027626']
+global.pengguna = 'SandDev'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'SandDev'
+global.pemilik = ['6289671027626'] 
+global.ownernomer = '6289671027626'
+global.ownername = 'SandDev'
+global.botname = 'SandBot'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.footer = 'S A N D - B O T'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'SandDev' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.yt = 'https://youtube.com/channel/UCEGM7WZBgttMZ-j7LOxB70g' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/isand_gt'
+global.gc = 'https://chat.whatsapp.com/CGRCTWEb2B56ODMXa0FzW8' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '089514488699'
+global.gopay = 'SOON!'
+global.wame = 'wa.me/6289671027626'
+global.email = 'SandDev@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: SandDev"\n"Bot Number: 6289514488699"\n"Bot Name: SandBot"\n"Instagram: @isand_gt"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -83,7 +83,6 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //Menu
 global.ccomannya = `
   「 *Main Menu* 」
- » script
  » speedtest
  » ping
  » owner
